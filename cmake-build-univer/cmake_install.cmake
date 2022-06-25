@@ -1,4 +1,4 @@
-# Install script for directory: /home/zose/CLionProjects/univer/c-education
+# Install script for directory: /home/zose/c_projects/univer/c-education
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/zose/CLionProjects/univer/c-education/cmake-build-univer/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/zose/c_projects/univer/c-education/cmake-build-univer/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
