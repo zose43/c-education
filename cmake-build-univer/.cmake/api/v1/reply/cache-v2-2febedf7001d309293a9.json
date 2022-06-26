@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/zose/CLionProjects/univer/c-education/cmake-build-univer"
+			"value" : "/home/zose/c_projects/univer/c-education/cmake-build-univer"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -463,7 +463,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/zose/CLionProjects/univer/c-education"
+			"value" : "/home/zose/c_projects/univer/c-education"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -995,7 +995,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/zose/CLionProjects/univer/c-education/cmake-build-univer"
+			"value" : "/home/zose/c_projects/univer/c-education/cmake-build-univer"
 		},
 		{
 			"name" : "univer_IS_TOP_LEVEL",
@@ -1019,7 +1019,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/zose/CLionProjects/univer/c-education"
+			"value" : "/home/zose/c_projects/univer/c-education"
 		}
 	],
 	"kind" : "cache",
