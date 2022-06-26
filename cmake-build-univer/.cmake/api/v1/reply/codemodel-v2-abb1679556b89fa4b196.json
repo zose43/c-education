@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/zose/CLionProjects/univer/c-education/cmake-build-univer",
-		"source" : "/home/zose/CLionProjects/univer/c-education"
+		"build" : "/home/zose/c_projects/univer/c-education/cmake-build-univer",
+		"source" : "/home/zose/c_projects/univer/c-education"
 	},
 	"version" : 
 	{
