@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /home/zose/CLionProjects/univer/c-education/cmake-build-univer/
+cmake_ninja_workdir = /home/zose/c_projects/univer/c-education/cmake-build-univer/
 # =============================================================================
 # Object build statements for EXECUTABLE target univer
 
@@ -49,7 +49,7 @@ cmake_ninja_workdir = /home/zose/CLionProjects/univer/c-education/cmake-build-un
 
 build cmake_object_order_depends_target_univer: phony || CMakeFiles/univer.dir
 
-build CMakeFiles/univer.dir/main.c.o: C_COMPILER__univer_Debug /home/zose/CLionProjects/univer/c-education/main.c || cmake_object_order_depends_target_univer
+build CMakeFiles/univer.dir/main.c.o: C_COMPILER__univer_Debug /home/zose/c_projects/univer/c-education/main.c || cmake_object_order_depends_target_univer
   DEP_FILE = CMakeFiles/univer.dir/main.c.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/univer.dir
@@ -80,7 +80,7 @@ build univer: C_EXECUTABLE_LINKER__univer_Debug CMakeFiles/univer.dir/main.c.o
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/zose/CLionProjects/univer/c-education/cmake-build-univer && /home/zose/opt/clion/bin/cmake/linux/bin/ccmake -S/home/zose/CLionProjects/univer/c-education -B/home/zose/CLionProjects/univer/c-education/cmake-build-univer
+  COMMAND = cd /home/zose/c_projects/univer/c-education/cmake-build-univer && /home/zose/opt/clion/bin/cmake/linux/bin/ccmake -S/home/zose/c_projects/univer/c-education -B/home/zose/c_projects/univer/c-education/cmake-build-univer
   DESC = Running CMake cache editor...
   pool = console
   restat = 1
@@ -92,7 +92,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/zose/CLionProjects/univer/c-education/cmake-build-univer && /home/zose/opt/clion/bin/cmake/linux/bin/cmake --regenerate-during-build -S/home/zose/CLionProjects/univer/c-education -B/home/zose/CLionProjects/univer/c-education/cmake-build-univer
+  COMMAND = cd /home/zose/c_projects/univer/c-education/cmake-build-univer && /home/zose/opt/clion/bin/cmake/linux/bin/cmake --regenerate-during-build -S/home/zose/c_projects/univer/c-education -B/home/zose/c_projects/univer/c-education/cmake-build-univer
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -108,7 +108,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 
 #############################################
-# Folder: /home/zose/CLionProjects/univer/c-education/cmake-build-univer
+# Folder: /home/zose/c_projects/univer/c-education/cmake-build-univer
 
 build all: phony univer
 

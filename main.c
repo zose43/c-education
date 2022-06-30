@@ -3,6 +3,7 @@
 #include <locale.h>
 
 int main() {
+    setlocale(LC_ALL, "RUS");
     float x;
     double topStatement,
             bottomStatement,
